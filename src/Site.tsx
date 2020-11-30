@@ -12,7 +12,7 @@ const StyledBoxedImage = styled.img`
 `;
 
 const StyledNavbar = styled.nav`
-  background: #94c11f;
+  background: #2caffc;
   padding: 4px;
 `;
 
@@ -25,7 +25,7 @@ const StyledArticle = styled.article`
 `;
 
 const StyledHeading = styled.h1`
-  color: #94c11f;
+  color: #2caffc;
 `;
 
 function Site() {
@@ -41,8 +41,8 @@ function Site() {
         <StyledLink href="/goal">Goal</StyledLink>
       </StyledNavbar>
       <StyledArticle>
-        <StyledHeading>Relatics</StyledHeading>
-        <StyledHeaderImage src="https://www.relatics.com/wp-content/uploads/2016/02/SE_model.jpg" />
+        <StyledHeading>Shypple</StyledHeading>
+        <StyledHeaderImage src="https://pbs.twimg.com/media/D6oIl-7W4AEvAL9.jpg" />
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.Cras ac feugiat
         augue, non fringilla lacus.Morbi mollis mi in ante mollis
         mattis.Vestibulum accumsan, erat at ultricies venenatis, odio nisl
@@ -86,18 +86,18 @@ function Site() {
         elit.Pellentesque ac cursus tellus.
       </StyledArticle>
       <StyledArticle>
-        <StyledHeading>Relatics expert</StyledHeading>
-        <StyledBoxedImage src="https://www.relatics.com/wp-content/uploads/2016/02/SE_model.jpg" />
-        <StyledBoxedImage src="https://www.relatics.com/wp-content/uploads/2016/02/SE_model.jpg" />
-        <StyledBoxedImage src="https://www.relatics.com/wp-content/uploads/2016/02/SE_model.jpg" />
-        <StyledBoxedImage src="https://www.relatics.com/wp-content/uploads/2016/02/SE_model.jpg" />
-        <StyledBoxedImage src="https://www.relatics.com/wp-content/uploads/2016/02/SE_model.jpg" />
-        <StyledBoxedImage src="https://www.relatics.com/wp-content/uploads/2016/02/SE_model.jpg" />
-        <StyledBoxedImage src="https://www.relatics.com/wp-content/uploads/2016/02/SE_model.jpg" />
-        <StyledBoxedImage src="https://www.relatics.com/wp-content/uploads/2016/02/SE_model.jpg" />
-        <StyledBoxedImage src="https://www.relatics.com/wp-content/uploads/2016/02/SE_model.jpg" />
-        <StyledBoxedImage src="https://www.relatics.com/wp-content/uploads/2016/02/SE_model.jpg" />
-        <StyledBoxedImage src="https://www.relatics.com/wp-content/uploads/2016/02/SE_model.jpg" />
+        <StyledHeading>Shypple expert</StyledHeading>
+        <StyledBoxedImage src="https://jobsforthem.s3.eu-west-1.amazonaws.com/63b6cc8cccbe9495a9fcf068b7dda300.jpg" />
+        <StyledBoxedImage src="https://jobsforthem.s3.eu-west-1.amazonaws.com/63b6cc8cccbe9495a9fcf068b7dda300.jpg" />
+        <StyledBoxedImage src="https://jobsforthem.s3.eu-west-1.amazonaws.com/63b6cc8cccbe9495a9fcf068b7dda300.jpg" />
+        <StyledBoxedImage src="https://jobsforthem.s3.eu-west-1.amazonaws.com/63b6cc8cccbe9495a9fcf068b7dda300.jpg" />
+        <StyledBoxedImage src="https://jobsforthem.s3.eu-west-1.amazonaws.com/63b6cc8cccbe9495a9fcf068b7dda300.jpg" />
+        <StyledBoxedImage src="https://jobsforthem.s3.eu-west-1.amazonaws.com/63b6cc8cccbe9495a9fcf068b7dda300.jpg" />
+        <StyledBoxedImage src="https://jobsforthem.s3.eu-west-1.amazonaws.com/63b6cc8cccbe9495a9fcf068b7dda300.jpg" />
+        <StyledBoxedImage src="https://jobsforthem.s3.eu-west-1.amazonaws.com/63b6cc8cccbe9495a9fcf068b7dda300.jpg" />
+        <StyledBoxedImage src="https://jobsforthem.s3.eu-west-1.amazonaws.com/63b6cc8cccbe9495a9fcf068b7dda300.jpg" />
+        <StyledBoxedImage src="https://jobsforthem.s3.eu-west-1.amazonaws.com/63b6cc8cccbe9495a9fcf068b7dda300.jpg" />
+        <StyledBoxedImage src="https://jobsforthem.s3.eu-west-1.amazonaws.com/63b6cc8cccbe9495a9fcf068b7dda300.jpg" />
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.Cras ac
           feugiat augue, non fringilla lacus.Morbi mollis mi in ante mollis
